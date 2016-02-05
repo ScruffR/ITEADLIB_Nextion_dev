@@ -1,0 +1,7 @@
+{
+  "name": "ITEADLIB_Nextion",
+  "author": "ITEAD / ScruffR / BSpranger",
+  "version": "0.1.0",
+  "license": "DO WHAT THE ... YOU WANT TO PUBLIC LICENSE",
+  "description": "WorkInProgress: Nextion library provides an easy-to-use way to manipulate Nextion serial displays."
+}

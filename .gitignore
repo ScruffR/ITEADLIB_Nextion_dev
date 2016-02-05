@@ -1,0 +1,10 @@
+firmware/build.bat
+firmware/GraphPrimitives.ino
+firmware/firmware.bin
+firmware/examples/GraphPrimitives/ClockFace.c
+firmware/examples/GraphPrimitives/ClockFace.txt
+firmware/examples/GraphPrimitives/ClockFace.xlsx
+firmware/examples/GraphPrimitives/Timer.HMI
+firmware/output.txt
+firmware/examples/GraphPrimitives/test.HMI
+firmware/Timer.ino
